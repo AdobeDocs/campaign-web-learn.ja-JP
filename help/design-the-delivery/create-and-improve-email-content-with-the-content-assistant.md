@@ -1,6 +1,6 @@
 ---
 title: コンテンツアシスタントを使用したメールコンテンツの作成と改善
-description: 生成 AI を活用したコンテンツアシスタントを使用してメールコンテンツを作成および強化し、メール配信を最適化してオーディエンスの共感を高める方法について説明します。
+description: ジェネレーティブ AI を利用したコンテンツアシスタントを使用して、メールコンテンツを作成および強化する方法を説明します。
 feature: Email Design
 role: User
 level: Beginner
@@ -11,17 +11,17 @@ jira: KT-14454
 hidefromtoc: true
 hide: true
 badgeAlpha: label="アルファ版" type="informative" before-title="true"
-source-git-commit: 6ae7ba123510d6dc2dbf67561b5b0b2e87823592
-workflow-type: ht
-source-wordcount: '98'
-ht-degree: 100%
+exl-id: 9502667e-0819-4cfb-84c9-ea68f07a8400
+source-git-commit: 1f603df605fa02b70880c0e0741db5927e17f7c5
+workflow-type: tm+mt
+source-wordcount: '78'
+ht-degree: 57%
 
 ---
 
-
 # コンテンツアシスタントを使用したメールコンテンツの作成と改善
 
-生成 AI を活用したコンテンツアシスタントを使用してメールコンテンツを作成および強化し、メール配信を最適化してオーディエンスの共感を高める方法について説明します。
+ジェネレーティブ AI を利用したコンテンツアシスタントを使用して、メールコンテンツを作成および強化する方法を説明します。
 
 >[!NOTE]
 >
@@ -29,4 +29,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425796/?learn=on)
 
-この機能について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/campaign-web/v8/msg/email/content/content-assistant/generative-gs.html?lang=ja)を参照してください。
+この機能について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/email/content/content-assistant/generative-gs)を参照してください。
