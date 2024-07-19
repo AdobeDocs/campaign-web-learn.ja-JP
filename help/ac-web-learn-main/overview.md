@@ -5,8 +5,9 @@ feature: Overview
 role: User, Admin, Developer
 recommendations: noDisplay, noCatalog
 level: Beginner, Intermediate, Experienced
-source-git-commit: 10e858e34a40157347f026c8c7a0db1326d872bc
-workflow-type: ht
+exl-id: 866568a7-0763-43f9-af75-0c6d70ea082a
+source-git-commit: a20bff7850298b1a280435a369b5a9494bc2eb27
+workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 100%
 
@@ -43,4 +44,3 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 * **[新しい Adobe Campaign web ユーザーインターフェイスで飛躍する](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html?lang=ja){target="_blank"}**
 
   *新しいユーザーエクスペリエンスでクロスチャネルキャンペーンを計画、開始、および測定する方法を学びます。*
-
