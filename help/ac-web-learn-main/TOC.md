@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign web ユーザーインターフェイス
 user-guide-description: Adobe Campaign web ユーザーインターフェイスの機能を使用する方法について説明します。
 breadcrumb-title: Web ユーザーインターフェイス - チュートリアル
 auto-video-transcripts: true
-source-git-commit: b99644fbf167da31382a931a2b0a3073f132a527
+source-git-commit: e10369e1cdd3487dfaeaff119e4973142e7d8db8
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 90%
+source-wordcount: '134'
+ht-degree: 100%
 
 ---
 
@@ -18,13 +18,14 @@ ht-degree: 90%
 + [Adobe Campaign web ユーザーインターフェイスチュートリアル](/help/ac-web-learn-main/overview.md)
 + はじめに {#getting-started}
    + [Campaign web ユーザーインターフェイスについて](/help/get-started/explore-the-web-ui.md)
-   + [Campaign Standardからの移行後のAdobe Campaign v8 の基本を学ぶ ](https://experienceleague.adobe.com/docs/campaign-learn/get-started-with-campaign-v8/overview.html)
+   + [Campaign Standard からの移行後の Adobe Campaign v8 の基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-learn/get-started-with-campaign-v8/overview.html?lang=ja)
 + メッセージと配信 {#messages-and-deliveries}
    + [メール配信の作成](/help/deliveries/create-an-email-delivery.md)
    + [メールコンテンツをゼロから設計](/help/design-the-delivery/create-email-content-from-scratch.md)
    + [HTML をアップロードしてメールを作成](/help/design-the-delivery/create-an-email-by-uploading-html.md)
    + [コンテンツアシスタントを使用したメールコンテンツの作成と改善](/help/design-the-delivery/create-and-improve-email-content-with-the-content-assistant.md)
    + [メール配信のプレビューと配達確認](/help/deliveries/preview-and-proof-an-email-delivery.md)
+   + [ダイレクトメール配信の作成](/help/design-the-delivery/create-a-direct-mail-delivery.md)
 + プロファイルとオーディエンス {#profiles-and-audiences}
    + [プロファイルを見る](/help/profiles-and-audiences/explore-profiles.md)
    + [オーディエンスの管理と作成](/help/profiles-and-audiences/manage-and-build-audiences.md)
