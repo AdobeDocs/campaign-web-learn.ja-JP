@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign web ユーザーインターフェイス
 user-guide-description: Adobe Campaign web ユーザーインターフェイスの機能を使用する方法について説明します。
 breadcrumb-title: Web ユーザーインターフェイス - チュートリアル
 auto-video-transcripts: true
-source-git-commit: 5de2884c7673b3bc3b37392aabb7cb9c2b01b6a4
+source-git-commit: 39bb7a2ee3e2605192eaadf46d27fc883f2c2643
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 93%
+source-wordcount: '138'
+ht-degree: 88%
 
 ---
 
@@ -17,8 +17,8 @@ ht-degree: 93%
 
 + [Adobe Campaign web ユーザーインターフェイスチュートリアル](/help/ac-web-learn-main/overview.md)
 + はじめに {#getting-started}
+   + [Adobe Campaign v8 導入ガイド ](https://experienceleague.adobe.com/en/docs/campaign-web/acs-to-ac/home)
    + [Campaign web ユーザーインターフェイスについて](/help/get-started/explore-the-web-ui.md)
-   + [Campaign Standard からの移行後の Adobe Campaign v8 の基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-learn/get-started-with-campaign-v8/overview.html?lang=ja)
 + メッセージと配信 {#messages-and-deliveries}
    + [メール配信の作成](/help/deliveries/create-an-email-delivery.md)
    + [メールコンテンツをゼロから設計](/help/design-the-delivery/create-email-content-from-scratch.md)
