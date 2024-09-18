@@ -10,9 +10,9 @@ last-substantial-update: 2024-02-13T00:00:00Z
 jira: KT-14395
 exl-id: a10e4d21-9c84-447c-9414-77aa307d0bff
 source-git-commit: 311ef614c2256ec5faea0a6b1f12fa212a979da9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '98'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
@@ -24,6 +24,6 @@ ht-degree: 70%
 
 >[!NOTE]
 >
->Assets メニューへのアクセスは、アクティブなAdobeExperience Essentials ライセンスを持つユーザーに制限されます。 このライセンスを保有していない場合、Assets メニューは使用できません。
+>Assets メニューへのアクセスは、アクティブな Adobe Experience Essentials ライセンスを持つユーザーに制限されます。このライセンスを保持していない場合、Assets メニューは使用できません。
 
 この機能について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/campaign-web/v8/msg/email/create-email.html?lang=ja)を参照してください。
