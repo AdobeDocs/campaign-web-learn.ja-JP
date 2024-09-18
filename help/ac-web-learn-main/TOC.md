@@ -8,7 +8,7 @@ auto-video-transcripts: true
 source-git-commit: 39bb7a2ee3e2605192eaadf46d27fc883f2c2643
 workflow-type: tm+mt
 source-wordcount: '138'
-ht-degree: 88%
+ht-degree: 95%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 88%
    + [メールコンテンツをゼロから設計](/help/design-the-delivery/create-email-content-from-scratch.md)
    + [HTML をアップロードしてメールを作成](/help/design-the-delivery/create-an-email-by-uploading-html.md)
    + [コンテンツアシスタントを使用したメールコンテンツの作成と改善](/help/design-the-delivery/create-and-improve-email-content-with-the-content-assistant.md)
-   + [Campaign での AI アシスタントを使用したコンテンツ作成 – コンテンツアクセラレーター](/help/design-the-delivery/create-content-with-the-ai-assistant-content-accelerator.md)
+   + [Campaign の AI アシスタントを使用したコンテンツの作成 - コンテンツアクセラレータ](/help/design-the-delivery/create-content-with-the-ai-assistant-content-accelerator.md)
    + [メール配信のプレビューと配達確認](/help/deliveries/preview-and-proof-an-email-delivery.md)
    + [ダイレクトメール配信の作成](/help/design-the-delivery/create-a-direct-mail-delivery.md)
 + プロファイルとオーディエンス {#profiles-and-audiences}

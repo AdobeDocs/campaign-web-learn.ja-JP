@@ -1,6 +1,6 @@
 ---
-title: Campaign での AI アシスタントを使用したコンテンツ作成 – コンテンツアクセラレーター
-description: Campaign - コンテンツアクセラレーターで AI アシスタントを使用して、ターゲットオーディエンスの共感を得られる、リアルタイムの 1 対 1 のキャンペーンおよびバッチキャンペーン用のチャネル対応コンテンツを生成する方法を説明します。
+title: Campaign の AI アシスタントを使用したコンテンツの作成 - コンテンツアクセラレータ
+description: Campaign の AI アシスタント - コンテンツアクセラレータを使用して、ターゲットオーディエンスの共感を得られる、リアルタイムの 1 対 1 およびバッチキャンペーン用のチャネル対応コンテンツを生成する方法について説明します。
 feature: Email Design
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -13,13 +13,13 @@ hide: false
 source-git-commit: f16d7d8d0db84ce411b3ff5f8922de05ade5dcab
 workflow-type: tm+mt
 source-wordcount: '78'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Campaign での AI アシスタントを使用したコンテンツ作成 – コンテンツアクセラレーター
+# Campaign の AI アシスタントを使用したコンテンツの作成 - コンテンツアクセラレータ
 
-Campaign - コンテンツアクセラレーターで AI アシスタントを使用して、ターゲットオーディエンスの共感を得られる、リアルタイムの 1 対 1 のキャンペーンおよびバッチキャンペーン用のチャネル対応コンテンツを生成する方法を説明します。
+Campaign の AI アシスタント - コンテンツアクセラレータを使用して、ターゲットオーディエンスの共感を得られる、リアルタイムの 1 対 1 およびバッチキャンペーン用のチャネル対応コンテンツを生成する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433569/?learn=on)
