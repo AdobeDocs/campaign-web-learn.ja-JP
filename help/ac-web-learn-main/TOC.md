@@ -5,7 +5,7 @@ user-guide-title: Adobe Campaign web ユーザーインターフェイス
 user-guide-description: Adobe Campaign web ユーザーインターフェイスの機能を使用する方法について説明します。
 breadcrumb-title: Web ユーザーインターフェイス - チュートリアル
 auto-video-transcripts: true
-source-git-commit: 39bb7a2ee3e2605192eaadf46d27fc883f2c2643
+source-git-commit: d5625a3edfc642ab006f295401c2532e3d6e1b37
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 95%
@@ -23,9 +23,9 @@ ht-degree: 95%
    + [メール配信の作成](/help/deliveries/create-an-email-delivery.md)
    + [メールコンテンツをゼロから設計](/help/design-the-delivery/create-email-content-from-scratch.md)
    + [HTML をアップロードしてメールを作成](/help/design-the-delivery/create-an-email-by-uploading-html.md)
+   + [メール配信のプレビューと配達確認](/help/deliveries/preview-and-proof-an-email-delivery.md)
    + [コンテンツアシスタントを使用したメールコンテンツの作成と改善](/help/design-the-delivery/create-and-improve-email-content-with-the-content-assistant.md)
    + [Campaign の AI アシスタントを使用したコンテンツの作成 - コンテンツアクセラレータ](/help/design-the-delivery/create-content-with-the-ai-assistant-content-accelerator.md)
-   + [メール配信のプレビューと配達確認](/help/deliveries/preview-and-proof-an-email-delivery.md)
    + [ダイレクトメール配信の作成](/help/design-the-delivery/create-a-direct-mail-delivery.md)
 + プロファイルとオーディエンス {#profiles-and-audiences}
    + [プロファイルを見る](/help/profiles-and-audiences/explore-profiles.md)
