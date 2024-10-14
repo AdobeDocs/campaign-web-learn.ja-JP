@@ -6,9 +6,9 @@ user-guide-description: Adobe Campaign web ユーザーインターフェイス�
 breadcrumb-title: Web ユーザーインターフェイス - チュートリアル
 auto-video-transcripts: true
 source-git-commit: 6104839cdc0007219afecfd651bb55edf1aff3e2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '154'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 85%
 
 + [Adobe Campaign web ユーザーインターフェイスチュートリアル](/help/ac-web-learn-main/overview.md)
 + はじめに {#getting-started}
-   + [Adobe Campaign v8 導入ガイド ](https://experienceleague.adobe.com/en/docs/campaign-web/acs-to-ac/home)
+   + [Adobe Campaign v8 導入ガイド](https://experienceleague.adobe.com/ja/docs/campaign-web/acs-to-ac/home)
    + [Campaign web ユーザーインターフェイスについて](/help/get-started/explore-the-web-ui.md)
 + メッセージと配信 {#messages-and-deliveries}
    + [メール配信の作成](/help/deliveries/create-an-email-delivery.md)
@@ -36,4 +36,4 @@ ht-degree: 85%
 + Experience League ライブ録画 {#exl-live-recordings}
    + [新しい Adobe Campaign web ユーザーインターフェイスで前進](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html?lang=ja){target="_blank"}
 + [Campaign クライアントコンソールチュートリアル](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=ja){target="_blank"}
-+ [AI Bash - Adobe Experience Platform アプリケーションおよび Campaign で AI アシスタントのパワーを解き放つ ](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
++ [AI Bash - Adobe Experience Platform アプリケーションおよび Campaign で AI アシスタントの威力を発揮する](https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)

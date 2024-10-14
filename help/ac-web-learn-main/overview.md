@@ -7,9 +7,9 @@ recommendations: noDisplay, noCatalog
 level: Beginner, Intermediate, Experienced
 exl-id: 866568a7-0763-43f9-af75-0c6d70ea082a
 source-git-commit: 6104839cdc0007219afecfd651bb55edf1aff3e2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '305'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -46,7 +46,7 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
   *新しいユーザーエクスペリエンスでクロスチャネルキャンペーンを計画、開始、および測定する方法を学びます。*
 
-* **[AI Bash - Adobe Experience Platform アプリケーションおよび Campaign で AI アシスタントのパワーを解き放つ ](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)**
+* **[AI Bash - Adobe Experience Platform アプリケーションおよび Campaign で AI アシスタントの威力を発揮する](https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)**
 
-  *AI アシスタントがAdobe Experience Cloud アプリケーションとAdobe Campaignで、お客様とのやり取りを変革し、生産性を向上させる方法について説明します。*
+  *Adobe Experience Cloud アプリケーションと Adobe Campaign で、AI アシスタントがどのようにお客様とのやり取りを変革し、生産性を向上させるかについて説明します。*
 
