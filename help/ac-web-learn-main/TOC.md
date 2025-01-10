@@ -5,9 +5,9 @@ user-guide-title: Adobe Campaign web ユーザーインターフェイス
 user-guide-description: Adobe Campaign web ユーザーインターフェイスの機能を使用する方法について説明します。
 breadcrumb-title: Web ユーザーインターフェイス - チュートリアル
 auto-video-transcripts: true
-source-git-commit: 6104839cdc0007219afecfd651bb55edf1aff3e2
-workflow-type: ht
-source-wordcount: '154'
+source-git-commit: 4cc7d83096f08728a5fb7ad7972be5953ca62126
+workflow-type: tm+mt
+source-wordcount: '159'
 ht-degree: 100%
 
 ---
@@ -29,6 +29,7 @@ ht-degree: 100%
    + [ダイレクトメール配信の作成](/help/design-the-delivery/create-a-direct-mail-delivery.md)
 + プロファイルとオーディエンス {#profiles-and-audiences}
    + [プロファイルを見る](/help/profiles-and-audiences/explore-profiles.md)
+   + [テストプロファイルの作成と管理](/help/profiles-and-audiences/create-and-manage-test-profiles.md)
    + [オーディエンスの管理と作成](/help/profiles-and-audiences/manage-and-build-audiences.md)
    + [Experience Platform でのオーディエンスの作成](/help/profiles-and-audiences/create-an-audience-with-experience-platform.md)
 + ワークフロー {#workflows}
