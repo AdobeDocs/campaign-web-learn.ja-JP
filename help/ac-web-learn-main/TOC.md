@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign web ユーザーインターフェイス
 user-guide-description: Adobe Campaign web ユーザーインターフェイスの機能を使用する方法について説明します。
 breadcrumb-title: Web ユーザーインターフェイス - チュートリアル
 auto-video-transcripts: true
-source-git-commit: 3dd71a4f48ce20b2118806120baba50c6a6429aa
+source-git-commit: 9869357b23d4fee7ec0a9ae7fa1806d0857d9630
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 97%
+source-wordcount: '167'
+ht-degree: 96%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 97%
    + [Campaign の AI アシスタントを使用したコンテンツの作成 - コンテンツアクセラレータ](/help/design-the-delivery/create-content-with-the-ai-assistant-content-accelerator.md)
    + [ダイレクトメール配信の作成](/help/design-the-delivery/create-a-direct-mail-delivery.md)
 + コンテンツ管理 {#content-management}
-   + [動的コンテンツを使用した配信機能の強化](/help/design-the-delivery/enhance-a-delivery-with-dynamic-content.md)
+   + [動的コンテンツによる配信の強化](/help/design-the-delivery/enhance-a-delivery-with-dynamic-content.md)
 + プロファイルとオーディエンス {#profiles-and-audiences}
    + [プロファイルを見る](/help/profiles-and-audiences/explore-profiles.md)
    + [テストプロファイルの作成と管理](/help/profiles-and-audiences/create-and-manage-test-profiles.md)
