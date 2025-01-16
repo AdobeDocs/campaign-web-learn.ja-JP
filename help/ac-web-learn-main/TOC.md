@@ -6,9 +6,9 @@ user-guide-description: Adobe Campaign web ユーザーインターフェイス�
 breadcrumb-title: Web ユーザーインターフェイス - チュートリアル
 auto-video-transcripts: true
 source-git-commit: 9869357b23d4fee7ec0a9ae7fa1806d0857d9630
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '167'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
