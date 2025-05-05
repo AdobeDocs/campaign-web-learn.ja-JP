@@ -27,6 +27,6 @@ ht-degree: 100%
 >
 > この機能は現在、アルファ版で使用でき、予告なく変更される場合があります。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425796/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452068/?learn=on&captions=jpn)
 
 この機能について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/ja/docs/campaign-web/v8/msg/email/content/content-assistant/generative-gs)を参照してください。

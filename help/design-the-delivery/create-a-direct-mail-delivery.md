@@ -23,6 +23,6 @@ ht-degree: 100%
 
 Adobe Campaign v8 web ユーザーインターフェイスでダイレクトメール配信を作成する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433316/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3451784/?learn=on&captions=jpn)
 
 詳しくは、[Campaign web ユーザーインターフェイス製品ドキュメント](https://experienceleague.adobe.com/ja/docs/campaign-web/v8/msg/direct-mail/gs-direct-mail)を参照してください。

@@ -20,6 +20,6 @@ ht-degree: 98%
 
 Campaign web ユーザーインターフェイスを使用してプロファイルにアクセス、管理および探索する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427293/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448365/?learn=on&captions=jpn)
 
 この機能について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/work-with-profiles/about-recipients.html?lang=ja)を参照してください。

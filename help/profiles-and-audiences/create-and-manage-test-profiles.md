@@ -22,4 +22,4 @@ Adobe Campaignでキャンペーンを作成する場合、送信するメッセ
 
 クライアントコンソールでテストプロファイルを作成する方法と、Adobe Campaign web UI でプロファイルを管理および編集する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3442844/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3442896/?learn=on&enablevpops&captions=jpn)

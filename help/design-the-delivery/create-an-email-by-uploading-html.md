@@ -20,4 +20,4 @@ ht-degree: 100%
 
 HTML をアップロードしてメールを作成する方法、メールデザイナーと互換性を持たせる方法、テンプレートに変換する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427633/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447033/?learn=on&captions=jpn)

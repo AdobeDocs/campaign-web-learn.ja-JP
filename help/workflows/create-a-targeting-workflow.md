@@ -20,7 +20,7 @@ ht-degree: 43%
 
 ワークフローの仕組みと、ターゲティングワークフローの作成方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425873/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453970/?learn=on&captions=jpn)
 
 
 この機能について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/campaign-web/v8/wf/gs-workflows.html?lang=ja)を参照してください。

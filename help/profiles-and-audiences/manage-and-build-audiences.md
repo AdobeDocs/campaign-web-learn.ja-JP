@@ -20,6 +20,6 @@ ht-degree: 98%
 
 オーディエンスの作成と管理方法、配信用のオーディエンスの選択方法、コントロール母集団の定義方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425861/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453203/?learn=on&captions=jpn)
 
 この機能について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/audiences/create-audience.html?lang=ja)を参照してください。
