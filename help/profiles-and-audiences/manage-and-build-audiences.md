@@ -22,4 +22,4 @@ ht-degree: 98%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425861/?learn=on)
 
-この機能について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/audiences/create-audience.html?lang=en)を参照してください。
+この機能について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/audiences/create-audience.html?lang=ja)を参照してください。

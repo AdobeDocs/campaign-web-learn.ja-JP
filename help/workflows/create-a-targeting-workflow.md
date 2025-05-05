@@ -23,4 +23,4 @@ ht-degree: 43%
 >[!VIDEO](https://video.tv.adobe.com/v/3425873/?learn=on)
 
 
-この機能について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/campaign-web/v8/wf/gs-workflows.html)を参照してください。
+この機能について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/campaign-web/v8/wf/gs-workflows.html?lang=ja)を参照してください。

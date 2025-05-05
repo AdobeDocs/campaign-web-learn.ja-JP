@@ -22,4 +22,4 @@ Campaign web ユーザーインターフェイスを使用してプロファイ�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427293/?learn=on)
 
-この機能について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/work-with-profiles/about-recipients.html)を参照してください。
+この機能について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/work-with-profiles/about-recipients.html?lang=ja)を参照してください。
