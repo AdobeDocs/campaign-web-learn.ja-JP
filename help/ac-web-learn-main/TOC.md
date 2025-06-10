@@ -36,6 +36,6 @@ ht-degree: 83%
 + ワークフロー {#workflows}
    + [ターゲティングワークフローの作成](/help/workflows/create-a-targeting-workflow.md)
 + Experience League ライブ録画 {#exl-live-recordings}
-   + [ 新しいAdobe Campaign web ユーザーインターフェイスを利用して先に進む ](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html?lang=ja){target="_blank"}
+   + [ 新しいAdobe Campaign web ユーザーインターフェイスを利用して先に進む](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html?lang=ja){target="_blank"}
 + [Campaign クライアントコンソールチュートリアル](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=ja){target="_blank"}
 + [AI Bash - Adobe Experience Platform アプリケーションおよび Campaign で AI アシスタントの威力を発揮する](https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
