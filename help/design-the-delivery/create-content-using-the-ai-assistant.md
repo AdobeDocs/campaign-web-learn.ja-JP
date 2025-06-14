@@ -22,7 +22,7 @@ ht-degree: 20%
 
 Adobeの AI アシスタントコンテンツアクセラレーターを使用して、件名、本文、画像などのマーケティングメールを素早く生成してカスタマイズする方法を説明します。また、一貫性とコンプライアンスを確保するためにブランド承認済みアセットを統合します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3463762/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463765/?learn=on&enablevpops&captions=jpn)
 
 ## その他のリソース
 
