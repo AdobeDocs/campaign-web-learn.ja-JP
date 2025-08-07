@@ -24,4 +24,4 @@ Adobe Campaign Web v8 のJavaScript コードアクティビティを効果的�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464918/?learn=on&enablevpops)
 
-この機能について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/en/docs/campaign-web/v8/wf/design-workflows/javascript-code)を参照してください。
+この機能について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/ja/docs/campaign-web/v8/wf/design-workflows/javascript-code)を参照してください。
