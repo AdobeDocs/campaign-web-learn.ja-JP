@@ -22,6 +22,6 @@ Campaign web ユーザーインターフェイスにアクセスして操作す�
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427278/?learn=on)
 
-**[ クリック可能なデモ ](https://app.teamwalnut.com/player/?demoId=08e65781-49bb-41a9-a238-2723a4478015&screenId=03a9500a-8b4f-411c-922f-748ace9c108a&showGuide=true&showGuidesToolbar=true&showHotspots=true&openGuidesToolbar=false) をお試しください。
+**[&#x200B; クリック可能なデモ &#x200B;](https://app.teamwalnut.com/player/?demoId=08e65781-49bb-41a9-a238-2723a4478015&screenId=03a9500a-8b4f-411c-922f-748ace9c108a&showGuide=true&showGuidesToolbar=true&showHotspots=true&openGuidesToolbar=false) をお試しください。
 
 Campaign v8 web ユーザーインターフェイスの操作方法について詳しくは、[Adobe Campaign Web の基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-web/v8/start/get-started.html?lang=ja)を参照してください。
