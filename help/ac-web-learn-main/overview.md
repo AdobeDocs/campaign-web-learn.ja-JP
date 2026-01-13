@@ -6,7 +6,7 @@ role: User, Admin, Developer
 recommendations: noDisplay, noCatalog
 level: Beginner, Intermediate, Experienced
 exl-id: 866568a7-0763-43f9-af75-0c6d70ea082a
-source-git-commit: 9dd078a55d56e62c260a528585b33f786c492455
+source-git-commit: c2d7d7f669d4b1501f90c3e160b18a6955482139
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 91%
@@ -17,9 +17,9 @@ ht-degree: 91%
 
 Adobe Campaign は、クロスチャネルのカスタマーエクスペリエンスを設計するためのプラットフォームであり、視覚的なキャンペーンオーケストレーション、リアルタイムインタラクション管理およびクロスチャネル実行のための環境を提供します。このユーザーガイドには、Adobe Campaign web ユーザーインターフェイスの特長や機能に関するビデオとチュートリアルが含まれています。
 
-[&#x200B; クリック可能なデモ &#x200B;](https://app.teamwalnut.com/player/?demoId=08e65781-49bb-41a9-a238-2723a4478015&screenId=03a9500a-8b4f-411c-922f-748ace9c108a&showGuide=true&showGuidesToolbar=true&showHotspots=true&openGuidesToolbar=false) を試す
+**クリック可能なデモを試す [](https://app.teamwalnut.com/player/?demoId=08e65781-49bb-41a9-a238-2723a4478015&screenId=03a9500a-8b4f-411c-922f-748ace9c108a&showGuide=true&showGuidesToolbar=true&showHotspots=true&openGuidesToolbar=false)**
 
-ビジネスとデータのニーズに基づく Campaign プラットフォームのカスタマイズと、他のシステムへの接続は、Campaign クライアントコンソールで管理されます。その結果、一部の設定と機能は、Campaign クライアントコンソールからのみアクセス、作成または管理できます。今後予定されている設定および機能の概要については、[Campaign web およびクライアントコンソールガイド &#x200B;](https://experienceleague.adobe.com/docs/campaign-web/v8/start/capability-matrix.html?lang=ja){target="_blank"} を参照してください。
+ビジネスとデータのニーズに基づく Campaign プラットフォームのカスタマイズと、他のシステムへの接続は、Campaign クライアントコンソールで管理されます。その結果、一部の設定と機能は、Campaign クライアントコンソールからのみアクセス、作成または管理できます。今後予定されている設定および機能の概要については、[Campaign web およびクライアントコンソールガイド ](https://experienceleague.adobe.com/docs/campaign-web/v8/start/capability-matrix.html?lang=ja){target="_blank"} を参照してください。
 
 >[!INFO]
 > 
