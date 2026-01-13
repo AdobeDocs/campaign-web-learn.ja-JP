@@ -17,7 +17,7 @@ ht-degree: 95%
 
 + [Adobe Campaign web ユーザーインターフェイスチュートリアル](/help/ac-web-learn-main/overview.md)
 + 基本を学ぶ {#getting-started}
-   + [ インタラクティブデモ ](https://app.teamwalnut.com/player/?demoId=08e65781-49bb-41a9-a238-2723a4478015&screenId=03a9500a-8b4f-411c-922f-748ace9c108a&showGuide=true&showGuidesToolbar=true&showHotspots=true&openGuidesToolbar=false)
+   + [&#x200B; インタラクティブデモ &#x200B;](https://app.teamwalnut.com/player/?demoId=08e65781-49bb-41a9-a238-2723a4478015&screenId=03a9500a-8b4f-411c-922f-748ace9c108a&showGuide=true&showGuidesToolbar=true&showHotspots=true&openGuidesToolbar=false)
    + [Adobe Campaign v8 導入ガイド](https://experienceleague.adobe.com/ja/docs/campaign-web/acs-to-ac/home)
    + [Campaign web ユーザーインターフェイスについて](/help/get-started/explore-the-web-ui.md)
 + メッセージと配信 {#messages-and-deliveries}

@@ -17,9 +17,9 @@ ht-degree: 91%
 
 Adobe Campaign は、クロスチャネルのカスタマーエクスペリエンスを設計するためのプラットフォームであり、視覚的なキャンペーンオーケストレーション、リアルタイムインタラクション管理およびクロスチャネル実行のための環境を提供します。このユーザーガイドには、Adobe Campaign web ユーザーインターフェイスの特長や機能に関するビデオとチュートリアルが含まれています。
 
-[ クリック可能なデモ ](https://app.teamwalnut.com/player/?demoId=08e65781-49bb-41a9-a238-2723a4478015&screenId=03a9500a-8b4f-411c-922f-748ace9c108a&showGuide=true&showGuidesToolbar=true&showHotspots=true&openGuidesToolbar=false) を試す
+[&#x200B; クリック可能なデモ &#x200B;](https://app.teamwalnut.com/player/?demoId=08e65781-49bb-41a9-a238-2723a4478015&screenId=03a9500a-8b4f-411c-922f-748ace9c108a&showGuide=true&showGuidesToolbar=true&showHotspots=true&openGuidesToolbar=false) を試す
 
-ビジネスとデータのニーズに基づく Campaign プラットフォームのカスタマイズと、他のシステムへの接続は、Campaign クライアントコンソールで管理されます。その結果、一部の設定と機能は、Campaign クライアントコンソールからのみアクセス、作成または管理できます。今後予定されている設定および機能の概要については、[Campaign web およびクライアントコンソールガイド ](https://experienceleague.adobe.com/docs/campaign-web/v8/start/capability-matrix.html?lang=ja){target="_blank"} を参照してください。
+ビジネスとデータのニーズに基づく Campaign プラットフォームのカスタマイズと、他のシステムへの接続は、Campaign クライアントコンソールで管理されます。その結果、一部の設定と機能は、Campaign クライアントコンソールからのみアクセス、作成または管理できます。今後予定されている設定および機能の概要については、[Campaign web およびクライアントコンソールガイド &#x200B;](https://experienceleague.adobe.com/docs/campaign-web/v8/start/capability-matrix.html?lang=ja){target="_blank"} を参照してください。
 
 >[!INFO]
 > 
