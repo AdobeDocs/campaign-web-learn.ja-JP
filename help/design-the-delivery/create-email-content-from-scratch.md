@@ -20,7 +20,7 @@ ht-degree: 100%
 
 メールデザイナーの操作方法について説明します。メールをゼロから構造化して設計する方法と、メールをパーソナライズしてテストする方法ついて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425867/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453563/?captions=jpn&learn=on)
 
 >[!NOTE]
 >

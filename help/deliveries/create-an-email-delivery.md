@@ -20,6 +20,6 @@ ht-degree: 100%
 
 メール配信をゼロから作成し、オーディエンスの定義、コンテンツの設計、プレビューのシミュレートを行い、配達確認を送信する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425866/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454006/?captions=jpn&learn=on)
 
 この機能について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/docs/campaign-web/v8/msg/gs-deliveries.html?lang=ja)を参照してください。

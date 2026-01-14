@@ -20,4 +20,4 @@ ht-degree: 100%
 
 メールメッセージのコンテンツとパーソナライゼーションをプレビューし、テストと検証のために特定の受信者または購読者にテスト配信（配達確認）を送信し、一般的なデスクトップ、モバイル、web ベースのクライアントでメールのレンダリングを確認する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425862/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450338/?captions=jpn&learn=on)
