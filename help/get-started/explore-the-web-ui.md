@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Campaign web ユーザーインターフェイスにアクセスして操作する方法と、在庫リストをカスタマイズする方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427278/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453423/?captions=jpn&learn=on)
 
 Campaign v8 web ユーザーインターフェイスの操作方法について詳しくは、[Adobe Campaign Web の基本を学ぶ](https://experienceleague.adobe.com/docs/campaign-web/v8/start/get-started.html?lang=ja)を参照してください。
