@@ -8,11 +8,9 @@ jira: KT-16191
 doc-type: Feature Video
 duration: 206
 last-substantial-update: 2025-06-09T00:00:00Z
-hidefromtoc: false
-hide: false
 exl-id: 4204e19b-3b4b-42f1-ae60-1c4c6b44039e
-source-git-commit: f386fd9b65ea1f2db4817a1a8519d3d24633bbb9
-workflow-type: tm+mt
+source-git-commit: e7356ef028111687eeebb8a1d7e1e0f58de37e05
+workflow-type: ht
 source-wordcount: '116'
 ht-degree: 100%
 
@@ -22,7 +20,7 @@ ht-degree: 100%
 
 アドビの AI アシスタントコンテンツアクセラレーターを使用し、ブランド承認済みアセットを統合して一貫性とコンプライアンスを確保しながら、件名、本文、画像などのマーケティングメールをすばやく生成してカスタマイズする方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3463765/?captions=jpn&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463762/?learn=on&enablevpops)
 
 ## その他のリソース
 
