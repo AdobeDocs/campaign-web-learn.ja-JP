@@ -1,10 +1,64 @@
 ---
-source-git-commit: 0e7b7f5385bf2e6e66cef76e8c3cc5f4ba61f433
+source-git-commit: 13f46ed7bfa40b6f71ec4c422af83929bc353e37
 workflow-type: tm+mt
-source-wordcount: '7'
-ht-degree: 0%
+source-wordcount: '521'
+ht-degree: 40%
 
 ---
-# アーカイブ
+# 記事の投稿
 
-このリポジトリは<https://github.com/Adobe-Enterprise-Docs/campaign-web-learn.ja-JP>に移行されました。
+当社は、コミュニティからの投稿に加え、ドキュメントチーム以外のアドビ社員からの投稿も歓迎します。
+
+## アドビのオープンソース行動規範
+
+このプロジェクトでは、[アドビのオープンソース行動規範](code-of-conduct.md)または [.NET Foundation 行動規範](https://dotnetfoundation.org/code-of-conduct)を採用しています。 詳しくは、記事の[投稿](contributing.md)を参照してください。
+
+## Adobe コンテンツへの貢献方法
+
+**Adobeの社員でない場合**&#x200B;は、外部コミュニティ投稿を送信できます。 コミュニティの投稿は社内システムに読み込まれ、公開リポジトリで編集および結合されます。 その後、公開リポジトリは最新の変更と同期され、プライベートリポジトリに結合されます。
+
+**Adobeの社員**&#x200B;であれば、プライベート [Adobe GitHub リポジトリ ](https://git.corp.adobe.com/AdobeDocs/)に直接投稿できます。 詳しくは、Adobeの従業員のためのAdobe Experience League オーサリングガイドを参照してください。
+
+## 外部貢献者
+
+### 軽微な変更
+
+マイナーアップデートを提供する場合：
+
+1. 編集するトピックに移動します。
+1. 「このコンテンツは役に立ちましたか？」 ブラウザーウィンドウの下部に表示されるバナーで、**詳細なフィードバックオプション**&#x200B;をクリックします。
+1. 「**編集を提案**」をクリックし、GitHub UIで変更を加えてプルリクエスト（PR）を送信します。
+
+   詳しくは、[アドビドキュメントの投稿者ガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=ja)を参照してください。
+
+このリポジトリのドキュメントやコード例に対して提出する軽微な修正や補足説明は、アドビ利用条件の対象となります。
+
+### コミュニティの主な変更点や新しいトピック
+
+Adobe コミュニティに参加していて、新しいトピックを作成したり、大きな変更を送信したりしたい場合は、該当するGit リポジトリの「**イシュー**」タブを使用してイシューを送信し、ドキュメントチームとの会話を開始します。 計画が合意されたら、Adobe ライターと協力してリビジョンを公開します。
+
+**注：** ドキュメントとコード例に大幅な変更を加えてプルリクエストを送信すると、プルリクエストにオンライン貢献度使用許諾契約（CLA）の送信を求めるメッセージが表示されます。 プルリクエストを確認する前に、オンラインフォームに記入してください。
+
+### ツール
+
+コミュニティの投稿者は、GitHub UI を使用して基本的な編集を行ったり、リポジトリをフォークして主要なコントリビューションを作成したりできます。
+
+詳しくは、[アドビドキュメントの投稿者ガイド](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=ja)を参照してください。
+
+## 内部貢献者
+
+テクニカルライター、プログラムマネージャー、またはAdobe Experience Cloud ソリューションのプロダクトチームの開発者で、技術記事の投稿や作成を担当する場合は、[ プライベートリポジトリ ](https://git.corp.adobe.com/AdobeDocs)を使用します。
+
+## トピックの書式設定
+
+このリポジトリのすべての記事では、GitHub風のMarkdownを使用しています。 Markdownに詳しくない方は、以下を参照してください。
+
+* [マークダウンの基本](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/)
+* [印刷可能なマークダウンのチートシート](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+
+## ラベル
+
+公開リポジトリでは、プルリクエストワークフローの管理や、プルリクエストの状況を把握できるようにするために、プルリクエストに自動的にラベルが割り当てられます。
+
+* **作成者に変更が送信されました**：保留中のプルリクエストが作成者に通知されました。
+* **結合準備完了**：プルリクエストレビューチームによるレビューの準備完了です。
