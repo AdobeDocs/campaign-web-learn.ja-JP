@@ -42,6 +42,6 @@ Adobe Campaign web v8 で JavaScript コードアクティビティを効果的�
 
 このチュートリアルでは、簡単なスクリプトモードと高度なスクリプトモードの両方について説明します。 実行設定とエラー処理について説明します。 VIP プロファイルのターゲティング、データの変換、条件付き操作のトリガーなど、実際の例を確認できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3464918/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464920/?captions=jpn&learn=on&enablevpops)
 
 この機能について詳しくは、[製品ドキュメント](https://experienceleague.adobe.com/ja/docs/campaign-web/v8/wf/design-workflows/javascript-code)を参照してください。
