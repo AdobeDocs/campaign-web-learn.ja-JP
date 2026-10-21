@@ -54,7 +54,7 @@ Adobe Campaign は、クロスチャネルのカスタマーエクスペリエ�
 
 >[!INFO]
 > 
-> 質問はありますか？ 同僚と経験を共有したり、意見交換したりしますか？ または、アドビチームの学習コンテンツに関するフィードバックはありますか？ **[Adobe Campaign の学習コミュニティスレッド](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096){target="_blank"}**&#x200B;で会話にご参加ください。
+> 質問はありますか？ 同僚と経験を共有したり、意見交換したりしますか？ または、アドビチームの学習コンテンツに関するフィードバックはありますか？ **[Adobe Campaign の学習コミュニティスレッド](https://experienceleaguecommunities.adobe.com?lang=ja:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096){target="_blank"}**&#x200B;で会話にご参加ください。
 >
 >
 > これらのチュートリアルは、お探しのものではありませんか？
